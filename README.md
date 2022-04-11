@@ -2,6 +2,12 @@
 
 The frontend of a blog.
 
+## Installation
+
+```bash
+npm install
+```
+
 ## Getting Started
 
 First, run the development server:
